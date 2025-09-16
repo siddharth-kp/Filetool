@@ -1,3 +1,6 @@
+to Get the repo use
+```git clone https://github.com/siddharth-kp/filetool.git```
+
 to generate the build use 
 ```go install```
 
