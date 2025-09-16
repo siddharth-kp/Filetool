@@ -4,6 +4,13 @@ to generate the build use
 to see usages run 
 ```filetool --help```
 
+### Commands available
+
+`scan` → Scans a directory recursively and prints the number of lines in each `.txt` file.<br>
+`freq` → Counts word frequencies across all `.txt` files in a directory and shows the top 10 most frequent words.
+
+<br>
+
 # USAGE
 
 ## Scan
