@@ -4,9 +4,9 @@ to generate the build use
 to see usages run 
 ```filetool --help```
 
-#USAGE
+# USAGE
 
-##Scan
+## Scan
 
 go to any directory and use
 ```filetool scan .```
@@ -23,7 +23,7 @@ fol-1\fol2\abc3.txt: 50 lines
 PS C:\Users\Siddharth Panda\Desktop\Desktop folder\testdata>
 ```
 
-##Freq count
+## Freq count
 
 go to any directory and use
 ```filetool freq .```
