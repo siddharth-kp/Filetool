@@ -1,9 +1,9 @@
 package main
 
 import (
-    cmd "github.com/siddharth-kp/filetool/cmd"
+    cmd "github.com/siddharth-kp/Filetool/cmd"
 )
 
 func main() {
-	cmd.excecute()
+	cmd.Execute()
 }
